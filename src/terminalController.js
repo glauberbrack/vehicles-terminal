@@ -32,6 +32,7 @@ export default class TerminalController {
 
   updateTable(item) {
     this.data.push(item)
+    console.clear()
     this.print(chalkTable(this.getTableOptions(), this.data))
   }
 

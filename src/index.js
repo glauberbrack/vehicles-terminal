@@ -13,7 +13,7 @@ terminalController.initializeTerminal(database, DEFAULT_LANG)
 
 async function mainLoop() {
   try {
-    const answer = await terminalController.question('Insert new data: ')
+    const answer = await terminalController.question('\nInsert new data: ')
 
     const vehicle = Vehicle.generateInstanceFromString(answer);
     terminalController.updateTable(vehicle.formatted(DEFAULT_LANG))
