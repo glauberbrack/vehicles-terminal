@@ -18,7 +18,7 @@
 <br>
 
 ## :book: Description
-Built only with Node.js, this project was made to training about js concepts, tests and how to use a beauty terminal application 😝
+Using Node.js, this project was built to training about js concepts, tests and how to use a beauty terminal application 😝
 
 ## :rocket: Technologies
 
@@ -27,15 +27,15 @@ Built only with Node.js, this project was made to training about js concepts, te
 ## :notebook: Running
 
 ```bash
-# Faça o clone
+# Make a clone
 $ git clone git@github.com:glauberbrack/vehicles-terminal.git
-# Navegue até a pasta do projeto
+# Go to project folder
 $ cd vehicles-terminal
-# Install depencies
+# Install dependencies
 $ npm install
-# Run
+# Run project
 $ npm run dev
-# Test
+# Test project
 $ npm run test
 # See test coverage
 $ npm run test:cov
