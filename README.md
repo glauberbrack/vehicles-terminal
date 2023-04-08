@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Vehicles Terminal" title="#vehicles-terminal" src=".github/application.gif" width="450px" />
+    <img alt="Vehicles Terminal" title="#vehicles-terminal" src=".github/application.gif" width="650px" />
 </h1>
 
 <h4 align="center">
